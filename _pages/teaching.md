@@ -17,7 +17,7 @@ We also shortly cover related concepts like humanitarian logistics.
 *Who?* In the winter semesters of 2021/2022 and 2022/2023, I taught this course together with my lovely colleague Chunting Liu, Ph.D.
 Since winter 2023/2024, I teach the course by myself.
 
-*Opinions?* On average, students evaluate my teaching in the course with the grade 1.17 (1 best, 5 worst). Some opinions on the course from the anonymous evaluation include:
+*Opinions?* On average, students evaluate my teaching in the course with the grade 1.17 (1 best, 5 worst). Some opinions on the course from the anonymous evaluations include:
 - *"I think the content, plan, and presentation of the topics were perfect. Mr. Bloemer has a great expertise and experience on the content of the course. He is always kind and mentors you if you have questions. I have really enjoyed every part of the course and unfortunately, I don't have any feedback to help improve the course because I believe it was really top tier. Thank you for everything!!"*
 - *"Alexander is doing a great job and from my point of view the way this seminar taught should be a "role model" for other courses."*
 - *"I believe it is a really good course that provides the students with a lot of important information about a topic that has a direct impact on the quality of our lives."*
