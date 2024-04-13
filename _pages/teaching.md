@@ -26,8 +26,12 @@ Since winter 2023/2024, I teach the course by myself.
 - "Alexander is very interested in the subject, very open and approachable, which improves the learning experience."
 - "Alexander is doing a great job and from my point of view the way this seminar taught should be a "role model" for other courses."
 
+---
+
 Every summer semester, the teaching mode changes with the fundamentals course **Logistics and Supply Chain Management** for 1300-1400 bachelor and master students at TUM.
 Here, I support Prof. Minner in preparing the content, give some lectures during the semester in the Audimax (which is always exciting), coordinate the 12 tutors conducting 24 weekly tutorials, organize the exams etc.
+
+---
 
 Additionally, I supervise **Bachelor and Master Theses** as well as **Project Studies** and **Interdisciplinary Projects**.
 A selection of topics (mostly master theses) includes:
@@ -49,5 +53,7 @@ A selection of topics (mostly master theses) includes:
 - Market Entry Opportunities for Charging Infrastructures in Urban Areas across Europe
 - Social Media Crawling for Sustainable and Resilient Supply Chains
 - Decarbonization of Aviation within an EU Framework
+
+---
 
 Finally, I supervise students in our chair's **Advanded Seminar** every semester, where students gain experience in conducting research before starting with their thesis.

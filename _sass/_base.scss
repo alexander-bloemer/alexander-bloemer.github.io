@@ -14,12 +14,9 @@ h6,
 em,
 div,
 li,
-span {
-  color: var(--global-text-color);
-}
-
+span,
 strong {
-  color: var(--global-theme-color);
+  color: var(--global-text-color);
 }
 
 hr {
