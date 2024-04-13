@@ -14,10 +14,12 @@ h6,
 em,
 div,
 li,
-span,
+span {
+  color: var(--global-text-color);
+}
+
 strong {
   color: var(--global-theme-color);
-  /*color: var(--global-text-color);*/
 }
 
 hr {
