@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /
+subtitle: I talk and write about sustainability and transparency in supply chains.
 nav: true
 nav_order: 1
 
@@ -15,7 +16,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I talk and write about sustainability and transparency in supply chains.
 
 I'm a **[research assistant](https://www.ot.mgt.tum.de/log/team/bloemer/)** at the Technical University of Munich, Chair for Logistics and Supply Chain Management.
 My Ph.D. supervisor is [**Prof. Dr. Stefan Minner**](https://www.ot.mgt.tum.de/log/team/minner/).
@@ -23,6 +23,6 @@ Currently, I'm a visiting researcher at North Carolina State University, working
 
 Before starting my Ph.D., I studied at the University of Cologne (B.Sc.), the Technical University of Munich (M.Sc.), and Lund University in Sweden (Erasmus Exchange).
 
-If you want to know more about my [**teaching**](/teaching/) or my [**research**](/research/), feel free to wander around these pages!
+If you want to know more about my [**teaching**](/teaching/), my research projects, or xxx, feel free to wander around these pages!
 
 To reach out, just send a mail to [**alexander.bloemer@tum.de**](mailto:alexander.bloemer@tum.de).
