@@ -8,28 +8,21 @@ nav_order: 2
 ---
 
 Every winter semester, I teach **Sustainable Supply Chain Management**, a seminar-like course for 30-35 master students at TUM.
+In this course, we discuss the main concepts of designing supply chains to be as sustainable as possible.
 
-*What?* In this course, we discuss the main concepts of designing supply chains to be as sustainable as possible, including for example life cycle assessments, transparency initiatives, sustainable (urban) logistics, closed-loop supply chains and circularity, supplier selection, and governance mechanisms.
-We also shortly cover related concepts like humanitarian logistics.
-
-*Why?* The goal is to educate students about the huge lever supply chain management has on sustainability, which approaches are available, and why addressing supply chain sustainability may not always be as straightforward and intuitive as expected.
-
-*Who?* In the winter semesters of 2021/2022 and 2022/2023, I taught this course together with my lovely colleague Chunting Liu, Ph.D.
-Since winter 2023/2024, I teach the course by myself.
-
-*Opinions?* On average, students evaluate my teaching in the course with the grade 1.17 (1 best, 5 worst). Some opinions on the course from the anonymous evaluations include:
+On average, students evaluate my teaching in the course with the grade 1.17 (1 best, 5 worst). Some opinions on the course from the anonymous evaluations include:
 - *"I think the content, plan, and presentation of the topics were perfect. Mr. Bloemer has a great expertise and experience on the content of the course. He is always kind and mentors you if you have questions. I have really enjoyed every part of the course and unfortunately, I don't have any feedback to help improve the course because I believe it was really top tier. Thank you for everything!!"*
 - *"Alexander is doing a great job and from my point of view the way this seminar taught should be a "role model" for other courses."*
-- *"I believe it is a really good course that provides the students with a lot of important information about a topic that has a direct impact on the quality of our lives."*
 - *"Alexander is very enthusiastic about the course, and his lecturing style is easy to listen to and participate."*
 - *"I really enjoyed the course. It was inspiring, and I learned a lot. Thanks!"*
 - *"Mister Bloemer was a great lecturer and really sparked my interest in the subject."*
 - *"Alexander is very interested in the subject, very open and approachable, which improves the learning experience."*
+- *"I believe it is a really good course that provides the students with a lot of important information about a topic that has a direct impact on the quality of our lives."*
 
 ---
 
 Every summer semester, the teaching mode changes with the fundamentals course **Logistics and Supply Chain Management** for 1300-1400 bachelor and master students at TUM.
-Here, I support Prof. Minner in preparing the content, give some lectures during the semester in the Audimax (which is always exciting), coordinate the 12 tutors conducting 24 weekly tutorials, organize the exams etc.
+Here, I support Prof. Minner in preparing the content, give some lectures during the semester in the Audimax (which is always exciting), coordinate the 12 tutors conducting 24 weekly tutorials, and organize the exams.
 
 ---
 

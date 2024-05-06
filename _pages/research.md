@@ -13,5 +13,6 @@ How does that look like in multi-tier supply chains, and which role can transpar
 
 This is a selection of questions I address in my research.
 
+to-do: conference presentations
 
 If you want to know more, feel free to contact me: **[alexander.bloemer@tum.de](mailto:alexander.bloemer@tum.de)**.
