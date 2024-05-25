@@ -13,6 +13,7 @@ profile:
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+nav: false
 ---
 
 I'm a **[research assistant](https://www.ot.mgt.tum.de/log/team/bloemer/)** at the Technical University of Munich, Chair for Logistics and Supply Chain Management.
