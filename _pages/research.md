@@ -7,11 +7,10 @@ nav: true
 nav_order: 2
 ---
 
-How can a company incentivize their suppliers to adhere to sustainability standards?
-How can they support the suppliers in doing so?
-How does that look like in multi-tier supply chains, and which role can transparency initiatives play here?
-
-This is a selection of questions I address in my research.
+In my research, I address questions of sustainability in supply chains, including:
+- How can a company incentivize their suppliers to adhere to sustainability standards?
+- How can they support the suppliers in doing so?
+- How does that look like in multi-tier supply chains, and which role can transparency initiatives play here?
 
 I also talk about this at conferences:
 - European Operations Management Association (EurOMA) Conference - 2023 - Leuven, Belgium
