@@ -39,20 +39,20 @@ table {
 
 a,
 table.table a {
-  color: var(--global-theme-color);    
+  color: var(--global-theme-color);        
+  text-decoration: underline;
   
   &:hover {
     color: var(--global-theme-color);
-    text-decoration: underline;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+}
 
-  &:not(.nav-item) {
-    text-decoration: underline;
-  }
+a.nav-link {
+  text-decoration: none;
 }
 
 .table-dark {

@@ -20,4 +20,4 @@ I also talk about this at **conferences**:
 - Manufacturing and Service Operations Management (M&SOM) Conference - 2022 - Munich
 - International Working Seminar on Production Economics - 2022 - Innsbruck (online)
 
-If you want to know more, feel free to contact me at **[alexander.bloemer@tum.de](mailto:alexander.bloemer@tum.de)**.
+If you want to know more, feel free to contact me: **[alexander.bloemer@tum.de](mailto:alexander.bloemer@tum.de)**.
