@@ -40,8 +40,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);    
-  text-decoration: underline;
-
+  
   &:hover {
     color: var(--global-theme-color);
     text-decoration: underline;
@@ -49,6 +48,10 @@ table.table a {
 
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
+  }
+
+  &:not(.nav-item) {
+    text-decoration: underline;
   }
 }
 
