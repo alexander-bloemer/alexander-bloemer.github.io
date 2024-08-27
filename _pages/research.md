@@ -15,7 +15,7 @@ In my research, I address questions of **sustainability in supply chains**, incl
 With this, I want to understand why sustainability problems persist along global supply chains, and which levers are most effective in addressing them.
 
 **Publications** on these topics are:
-- Bloemer, A. (2024). Warum Unternehmen zur Veröffentlichung ihrer Lieferketten verpflichtet werden sollten. *Makronom*. ([Link](https://makronom.de/warum-unternehmen-zur-veroeffentlichung-ihrer-lieferketten-verpflichtet-werden-sollten-47164) and [pdf](assets/pdf/2024_08_27_Warum Unternehmen zur Veröffentlichung ihrer Lieferketten verpflichtet werden sollten)). English version coming soon.
+- Bloemer, A. (2024). Warum Unternehmen zur Veröffentlichung ihrer Lieferketten verpflichtet werden sollten. *Makronom*. ([Link](https://makronom.de/warum-unternehmen-zur-veroeffentlichung-ihrer-lieferketten-verpflichtet-werden-sollten-47164) and [pdf](../assets/pdf/2024_08_27_Warum_Unternehmen_zur_Veröffentlichung_ihrer_Lieferketten_verpflichtet_werden_sollten.pdf)). English version coming soon.
 - Bloemer, A. & Minner, S. (2024). Unveiling the Supply Chain: The Interaction of Sustainability, Transparency and Digital Technologies. In P. Evangelista, J. Hallikas, & M. Y. Jaber (Eds.), *Environmentally Responsible Supply Chains in an Era of Digital Transformation* (pp. 136-159). Edward Elgar Publishing.
 - Journal articles are currently under review.
 
