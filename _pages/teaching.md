@@ -10,7 +10,7 @@ nav_order: 2
 Every winter semester, I teach **Sustainable Supply Chain Management**, a seminar-like course for 30-35 master students at TUM.
 In this course, we discuss the main concepts of designing supply chains to be as sustainable as possible.
 
-On average, students evaluate my teaching in the course with the grade 1.17 (1 best, 5 worst). Some opinions on the course from the anonymous evaluations include:
+On average, students evaluate my teaching in the course with the grade 1.14 (1 best, 5 worst). Some opinions on the course from the anonymous evaluations include:
 - *"I think the content, plan, and presentation of the topics were perfect. Mr. Bloemer has a great expertise and experience on the content of the course. He is always kind and mentors you if you have questions. I have really enjoyed every part of the course and unfortunately, I don't have any feedback to help improve the course because I believe it was really top tier. Thank you for everything!!"*
 - *"Alexander is doing a great job and from my point of view the way this seminar taught should be a "role model" for other courses."*
 - *"Alexander is very enthusiastic about the course, and his lecturing style is easy to listen to and participate."*
