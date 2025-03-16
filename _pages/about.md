@@ -26,6 +26,6 @@ Before starting my Ph.D., I studied at the University of Cologne (B.Sc.), the Te
 
 If you want to know more about my [**teaching**](/teaching/) or my [**research**](/research/), feel free to have a look at these pages!
 
-I'm also an active member of [**Economists for Future (DE-AT-CH)**](https://econ4future.de/) and part of their core team.
+I'm also part of the core Team of [**Economists for Future (DE-AT-CH)**](https://econ4future.de/).
 
 To reach out, just send a mail to [**alexander.bloemer@tum.de**](mailto:alexander.bloemer@tum.de) or contact me via <a href="https://www.linkedin.com/in/alexander-bloemer-862357211" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>.
