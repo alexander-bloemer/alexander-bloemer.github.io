@@ -21,7 +21,7 @@ With this, I want to understand why sustainability problems persist along global
 - Langer, A., Bloemer, A., Ulusoy Dereli, B., Wünnenberg, M. & Schiffer, M. (2024). MCube InterLog: Innovative Logistik für die Stadt von morgen. *KommunalPraxis Bayern*, 46(12), 414-417.
 - Bloemer, A. (2024). Warum Unternehmen zur Veröffentlichung ihrer Lieferketten verpflichtet werden sollten. *Makronom*. [Link](https://makronom.de/warum-unternehmen-zur-veroeffentlichung-ihrer-lieferketten-verpflichtet-werden-sollten-47164) and [pdf](../assets/pdf/2024_08_27_Warum_Unternehmen_zur_Veröffentlichung_ihrer_Lieferketten_verpflichtet_werden_sollten.pdf). English version coming soon.
 - Bloemer, A. & Minner, S. (2024). Unveiling the Supply Chain: The Interaction of Sustainability, Transparency and Digital Technologies. In P. Evangelista, J. Hallikas, & M. Y. Jaber (Eds.), *Environmentally Responsible Supply Chains in an Era of Digital Transformation* (pp. 136-159). Edward Elgar Publishing.
-- Journal articles are currently under review.
+- Further journal articles are currently under review.
 
 I also talk about this at **conferences**:
 - European Operations Management Association (EurOMA) Conference - 2023 - Leuven, Belgium
