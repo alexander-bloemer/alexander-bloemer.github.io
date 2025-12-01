@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Every winter semester, I teach **Sustainable Supply Chain Management**, a seminar-like course for 30-35 master students at TUM.
+Every winter semester, I teach **Sustainable Supply Chain Management**, a seminar-like course for 30 -- 35 master students at TUM.
 In this course, we discuss the main concepts of designing supply chains to be as sustainable as possible.
 
 On average, students evaluate my teaching in the course with the grade 1.14 (1 best, 5 worst). Some opinions on the course from the anonymous evaluations include:
@@ -21,8 +21,8 @@ On average, students evaluate my teaching in the course with the grade 1.14 (1 b
 
 ---
 
-Every summer semester, the teaching mode changes with the fundamentals course **Logistics and Supply Chain Management** for 1300-1400 bachelor and master students at TUM.
-Here, I support Prof. Minner in preparing the content, give some lectures during the semester in the Audimax (which is always exciting), coordinate the 12 tutors conducting 24 weekly tutorials, and organize the exams.
+Every summer semester, the teaching mode changes with the fundamentals course **Logistics and Supply Chain Management** for 1,000 -- 1,200 bachelor and master students at TUM.
+Here, I support Prof. Minner in preparing the content, give some lectures during the semester in the Audimax (which is always exciting), coordinate the 12 -- 14 tutors conducting weekly tutorials, and organize the exams.
 
 ---
 
